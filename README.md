@@ -10,7 +10,7 @@ Detect and Kill Adblock(ers): Ways to mess (and bypass Adblock blockers) with ad
 
 ## How does it work?
 
-* Create a fake ad, insert it in the DOM, but hide it from users viewport.  
+* Create a fake ad, insert it in the DOM, but hide it from the user's viewport.  
 * Check if adblocking software is working by hiding the fake ad.  
 * If so, add class adb to body or generate warnings/nag-screens.
 
