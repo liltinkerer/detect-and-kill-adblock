@@ -25,11 +25,11 @@
 						document.body.classList.add('adb');
 						// For testing
 						console.log("Adblock is enabled!");
-						document.write("Adblock is enabled!");
+						document.body.innerHTML ="Adblock is enabled!";
 					} else {
 						// For testing
 						console.log("Adblock is disabled!");
-						document.write("Adblock is disabled!");
+						document.body.innerHTML ="Adblock is disabled!";
 					}
 					// Remove the fake ad from DOM
 					document.body.removeChild(fake_ad);
