@@ -1,7 +1,8 @@
 # Detect and Kill Adblockers!
 
-Inline-style: 
+
 ![ADB](https://liltinkerer.github.io/detect-and-kill-adblock/adb.png)
+
 
 Detect and Kill Adblock(ers): Ways to mess (and bypass Adblock blockers) with adblocking software and its users.
 
